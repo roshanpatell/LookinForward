@@ -1,5 +1,6 @@
 # LookinForward
 Unity based banking AR environment for IOS devices - A vision for future
+<a href="https://imgflip.com/gif/3pi0ki"><img src="https://i.imgflip.com/3pi0ki.gif" title="made at imgflip.com"/></a>
 Inspiration
 For this project, we were inspired mainly by the concept of creating an innovative and unique client experience, as well as a futuristic and unique take on solutions to problems which banks of today face. Moreover, our inspiration circulates around ways to find possible solutions to various technological issues, and how these issues can be solved when it comes to the comfort, guaranteed security, and efficiency of the client, so their experience could be optimized when it comes to their digital banking experience.
 
